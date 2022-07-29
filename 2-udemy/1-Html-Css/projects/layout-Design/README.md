@@ -5,7 +5,7 @@
 
 ![screen shot](lisbon-chair.png)
 
-# [Live Demo](https://https://rawan-kh.github.io/Kalbonyan-Elmarsos/2-Udemy/1-Html-Css/projects/layout-Design/) 
+# [Live Demo](https://rawan-kh.github.io/Kalbonyan-Elmarsos/2-Udemy/1-Html-Css/projects/layout-Design/) 
 
 
 
