@@ -3,7 +3,7 @@
 
 <h3> A simple website design  </h3>
 
-![screen shot](/2-Udemy/1-Html-Css/projects/layout-Design/lisbon-chair.png)
+![screen shot](lisbon-chair.png)
 
 # [Live Demo](https://https://rawan-kh.github.io/Kalbonyan-Elmarsos/2-Udemy/1-Html-Css/projects/layout-Design/) 
 
