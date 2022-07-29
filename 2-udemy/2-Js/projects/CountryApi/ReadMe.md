@@ -1,11 +1,11 @@
 
-<h1>Lisbon Chair website</h1>
+<h1>Countries Api</h1>
 
-<h3> A simple website design  </h3>
+<h3> A website that fetches Countries and their neighbours  </h3>
 
 ![screen shot](CountryApi.png)
 
-# [Live Demo](https://rawan-kh.github.io/Kalbonyan-Elmarsos/2-Udemy/1-Html-Css/projects/layout-Design/) 
+# [Live Demo](https://rawan-kh.github.io/Kalbonyan-Elmarsos/2-Udemy/2-Js/projects/CountryApi/) 
 
 
 
