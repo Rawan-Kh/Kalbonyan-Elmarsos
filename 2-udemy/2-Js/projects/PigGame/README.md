@@ -5,6 +5,6 @@
 ## how to play
 - discover it 🎉
 
-![live screenshot](Pig-Game.png)
+![live screenshot](img/Pig-Game.png)
 # [live Demo](https://rawan-kh.github.io/Kalbonyan-Elmarsos/2-Udemy/2-Js/projects/PigGame/)
 
