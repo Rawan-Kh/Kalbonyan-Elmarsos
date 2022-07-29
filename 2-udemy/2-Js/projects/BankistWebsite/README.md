@@ -5,7 +5,7 @@
 ### DEMO
 ![screen shot](img/bankist-website.png)
 
-### [LIVE DEMO](https://)
+### [LIVE DEMO](https://rawan-kh.github.io/Kalbonyan-Elmarsos/2-Udemy/2-Js/projects/BankistWebsite/)
 
 ## Website Features 
 - smooth scrolling
