@@ -5,7 +5,7 @@
 
 ![screen shot](omnifood.png)
 
-# [Live Demo](https://https://rawan-kh.github.io/Kalbonyan-Elmarsos/2-udemy/1-Html-Css/projects/OmniFood-Project/) 
+# [Live Demo](https://rawan-kh.github.io/Kalbonyan-Elmarsos/2-udemy/1-Html-Css/projects/OmniFood-Project/) 
 
 
 
